@@ -1,7 +1,7 @@
 ### Hi there,
 
   <p>I used to be a lawer &#128528 </p>
-  <p>Now I am a programmer &#U+1F601 </p>
+  <p>Now I am a programmer :smile: </p>
 
 ```javascript
 const aboutMe = {
