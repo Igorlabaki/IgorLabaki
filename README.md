@@ -22,4 +22,3 @@ const aboutMe = {
    currentOccupation: ["Open for job opportunities"],
 };
 ```
-</br></br>
