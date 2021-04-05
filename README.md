@@ -1,6 +1,6 @@
 ### Hi there,
 
-  <p>I used to be a lawer &#128528 </p>
+  <p>I used to be a lawyer &#128528 </p>
   <p>Now I am a programmer :smile: </p>
 
 ```javascript
