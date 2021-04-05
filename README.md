@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  I used to be a lawer &#128528
-  Now I am a programmer U+1F601
+  <p>I used to be a lawer &#128528 </p>
+  <p>Now I am a programmer U+1F601 </p>
 
 ```javascript
 const aboutMe = {
