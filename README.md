@@ -8,7 +8,7 @@ const aboutMe = {
    pronouns: "he" | "him",
    level: beginner,
    // Learning:
-   code: [Javascript, Java, HTML, CSS],
+   code: [Javascript, Java, Dart, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["Angular"]
