@@ -11,8 +11,8 @@ const aboutMe = {
    code: [Javascript, PHP, HTML, CSS],
    technologies: {
       frontEnd: {
-         php: ["Laravel"]
-         js: ["React","Next.Js"]
+         php: ["Laravel"],
+         js: ["React","Next.Js"],
          css: ["Bootstrap", "Material Design", "Tailwindcss", "sass"]
       },
       backEnd: {
