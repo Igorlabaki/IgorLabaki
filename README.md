@@ -8,11 +8,12 @@ const aboutMe = {
    pronouns: "he" | "him",
    level: beginner,
    // Learning:
-   code: [Javascript, Java, PHP, HTML, CSS],
+   code: [Javascript, PHP, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["Angular"]
-         css: ["Bootstrap", "Material Design"]
+         php: ["Laravel"]
+         js: ["React","Next.Js"]
+         css: ["Bootstrap", "Material Design", "Tailwindcss", "sass"]
       },
       backEnd: {
          js: ["Node", "Express"],
