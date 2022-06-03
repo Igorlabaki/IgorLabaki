@@ -5,20 +5,17 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   level: beginner,
-   // Learning:
-   code: [Javascript, PHP, HTML, CSS],
+   level: junior,
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         php: ["Laravel"],
          js: ["React","Next.Js"],
-         css: ["Bootstrap", "Material Design", "Tailwindcss", "sass"]
+         css: ["Bootstrap", "Material Design", "Tailwindcss", "Styled Components"]
       },
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["mySQL", "SQLServer", "Prisma"],
    },
    currentOccupation: ["Open for job opportunities"],
 };
